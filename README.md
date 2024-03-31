@@ -1,7 +1,7 @@
 # PHP-exercicios
 
 ##Exercício 1:
-||
+```
 <?php
 function calcular() {
     $num = readline("insira um número: ");
@@ -16,12 +16,13 @@ function calcular() {
     echo "este número é nulo";
     }
 }
-||
 
 calcular()
 ?>
+```
 
 ##Exercício 2
+```
 <?php
 function calcular() {
     for ($i=1;$i<11;$i++){
@@ -32,9 +33,11 @@ function calcular() {
 echo "números de 1 a 10:\n";
 calcular()
 ?>
+```
 
 ##Exercício 3
 
+```
 <?php
 function calcular() {
     $frutas = array( "limão", "tangerina", "uva", "mamão", "maçã"
@@ -45,9 +48,11 @@ function calcular() {
 }
 calcular()
 ?>
+```
 
 ##Exercício 4
 
+```
 <?php
 $pessoa = array(
     "nome" => "John Doe",
@@ -73,11 +78,12 @@ foreach ($pessoa as $key => $value) {
     }
 }
 ?>
+```
 
 ##Exercício 5
 
+```
 <?php
-
 $pessoas = array(
     array(  "nome" => "João",
             "idade" => 19,
@@ -104,4 +110,4 @@ foreach ($pessoas as $pessoa) {
 }
 
 ?>
-
+```
