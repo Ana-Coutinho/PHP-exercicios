@@ -1,7 +1,8 @@
 # PHP-exercicios
 
 ##Exercício 1:
-||<?php
+||
+<?php
 function calcular() {
     $num = readline("insira um número: ");
     
@@ -14,7 +15,8 @@ function calcular() {
     if ($num==0) {
     echo "este número é nulo";
     }
-}||
+}
+||
 
 calcular()
 ?>
