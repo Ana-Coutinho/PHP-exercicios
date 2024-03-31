@@ -1,6 +1,6 @@
 # PHP-exercicios
 
-##Exercício 1:
+## Exercício 1:
 ```
 <?php
 function calcular() {
@@ -21,7 +21,7 @@ calcular()
 ?>
 ```
 
-##Exercício 2
+## Exercício 2
 ```
 <?php
 function calcular() {
@@ -35,7 +35,7 @@ calcular()
 ?>
 ```
 
-##Exercício 3
+## Exercício 3
 
 ```
 <?php
@@ -50,7 +50,7 @@ calcular()
 ?>
 ```
 
-##Exercício 4
+## Exercício 4
 
 ```
 <?php
@@ -80,7 +80,7 @@ foreach ($pessoa as $key => $value) {
 ?>
 ```
 
-##Exercício 5
+## Exercício 5
 
 ```
 <?php
