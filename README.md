@@ -1,6 +1,6 @@
 # PHP-exercicios
 
-## Exercício 1:
+### 1 . Faça uma função que calcule se um número é positivou, negativo ou nulo. Após isso, mostrar o resultado
 ```
 <?php
 function calcular() {
@@ -21,7 +21,7 @@ calcular()
 ?>
 ```
 
-## Exercício 2
+### 2 . Faça uma função que mostre os números de 1 a 10 usando for
 ```
 <?php
 function calcular() {
@@ -35,7 +35,7 @@ calcular()
 ?>
 ```
 
-## Exercício 3
+### 3 . Faça uma função que numere uma lista de objetos.
 
 ```
 <?php
@@ -49,8 +49,7 @@ function calcular() {
 calcular()
 ?>
 ```
-
-## Exercício 4
+### 4 . Faça um foreach que mostre os dados de uma pessoa.
 
 ```
 <?php
@@ -79,8 +78,7 @@ foreach ($pessoa as $key => $value) {
 }
 ?>
 ```
-
-## Exercício 5
+### 5 . Usando um array de arrays, faça um foreach que mostre com uma frase se a pessoa selecionada do array pode dirigir, baseado em sua idade.
 
 ```
 <?php
